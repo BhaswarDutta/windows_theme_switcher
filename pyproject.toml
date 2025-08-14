@@ -1,0 +1,10 @@
+[project]
+name = "windows-theme-switcher"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "inquirerpy>=0.3.4",
+    "rich>=14.1.0",
+]
