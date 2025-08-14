@@ -16,6 +16,8 @@ Here's **Windows Theme Switcher**
 - Changes VSCode Theme based on Selected Theme
 - Changes Windows Terminal Theme based on Selected Theme
 
+![Demo Video](https://github.com/BhaswarDutta/windows_theme_switcher/blob/feb37c86e58be000df3ed9cb8bd18e974f0be7cd/demo_theme_switcher_video.gif)
+
 ## Themes Included
 - Catppuccin (Mocha)
 - Synthwave '84
